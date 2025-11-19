@@ -4,4 +4,4 @@
 > failing that, it does nothing.
 > -- Isaac Asimov
 
-Neo-X School is a part of [Neo-X Corporation](https://github.com/Neo-X-Corporatioion)
+Neo-X School is a part of [Neo-X Corporation](https://github.com/Neo-X-Corp)
